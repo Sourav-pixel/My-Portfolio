@@ -12,16 +12,20 @@ export const Container = styled.section`
     }
     h1{
       font-size: 7rem;
+     
     }
 
     h3{
       color:var(--green);
       margin: 1rem 0;
     }
-
+p{
+ margin-bottom: 2rem;
+}
     
     p.small-resume {
       margin-bottom: 5rem;
+      
     }
   }
 // New added
@@ -34,7 +38,7 @@ export const Container = styled.section`
     padding-left:1rem;
 
     img,span{
-      font-size: 3rem;
+      font-size: 3.4rem;
       width: 3.5rem;
     }
   }
