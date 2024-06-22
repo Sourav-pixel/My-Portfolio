@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Sourav Deka
 
 
  ![Screenshot_20240622_183544](https://github.com/Sourav-pixel/My-Portfolio/assets/84978182/df503448-8e79-4c46-a353-68163383c2f0)
