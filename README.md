@@ -1,7 +1,8 @@
 # Portfolio of Vinayak Singh
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" />
- 
+
+ ![Screenshot_20240622_183544](https://github.com/Sourav-pixel/My-Portfolio/assets/84978182/df503448-8e79-4c46-a353-68163383c2f0)
+
 This project was created with CRA (Create React App)
 
 This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
